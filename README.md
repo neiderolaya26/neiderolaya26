@@ -25,15 +25,6 @@ I'm an **Economist** turned Data Scientist. I combine predictive modeling with b
 
 ---
 
-### 🚀 Projects
-
-Portfolio projects built with **synthetic or public data**, reproducing real credit-risk problems:
-
-* 🔜 **Credit scorecard for origination** — from raw data to a monitored model.
-* 🔜 **Renewal propensity model** — who to renew, and under what conditions.
-* 🔜 **Income estimator** — inferring repayment capacity when income is not declared.
-* 🔜 **Model monitoring dashboard** — PSI, KS, and stability tracking in Power BI.
-
 ### 🤖 Currently learning
 
 **Prompt engineering & applied GenAI**: using LLMs to speed up data analysis and model development.
@@ -75,15 +66,6 @@ Soy **Economista** convertido en Data Scientist. Combino modelamiento predictivo
 * **Alertas tempranas y señales de fraude (Solventa)**: variables de comportamiento y segmentación de riesgo para detectar señales de alerta y patrones atípicos, como base para modelos de alertas tempranas y detección de fraude.
 * **Pricing y rentabilidad (Mibanco)**: análisis de sensibilidad de pricing y desempeño de productos de crédito para soporte comercial; automatización de pipelines analíticos en Python y SQL.
 * **Segmentación de churn (Frubana)**: segmentación de perfiles de conductores según propensión a churn e indicadores de comportamiento para estrategias de retención.
-
-#### 🚀 Proyectos
-
-Proyectos de portafolio con **datos sintéticos o públicos** que reproducen problemas reales de riesgo de crédito:
-
-* 🔜 **Scorecard de originación**: del dato crudo a un modelo monitoreado.
-* 🔜 **Modelo de propensión a renovación**: a quién renovar y en qué condiciones.
-* 🔜 **Estimador de ingresos**: inferir la capacidad de pago cuando el ingreso no está declarado.
-* 🔜 **Tablero de monitoreo de modelos**: seguimiento de PSI, KS y estabilidad en Power BI.
 
 #### 🤖 Aprendiendo actualmente
 

@@ -23,8 +23,6 @@ I'm an **Economist** turned Data Scientist. I combine predictive modeling with b
 * **Pricing & profitability (Mibanco)** — Pricing sensitivity and credit-product performance analysis to support commercial decisions; automated analytical pipelines in Python and SQL.
 * **Churn segmentation (Frubana)** — Segmented driver profiles by churn propensity and designed behavioral KPIs for retention strategies.
 
-These summaries describe my role and techniques. Professional source code and internal datasets are not included.
-
 ---
 
 ### 🚀 Projects
@@ -77,8 +75,6 @@ Soy **Economista** convertido en Data Scientist. Combino modelamiento predictivo
 * **Alertas tempranas y señales de fraude (Solventa)**: variables de comportamiento y segmentación de riesgo para detectar señales de alerta y patrones atípicos, como base para modelos de alertas tempranas y detección de fraude.
 * **Pricing y rentabilidad (Mibanco)**: análisis de sensibilidad de pricing y desempeño de productos de crédito para soporte comercial; automatización de pipelines analíticos en Python y SQL.
 * **Segmentación de churn (Frubana)**: segmentación de perfiles de conductores según propensión a churn e indicadores de comportamiento para estrategias de retención.
-
-Estos resúmenes describen mi rol y las técnicas utilizadas. No se incluye código profesional ni datos internos.
 
 #### 🚀 Proyectos
 
